@@ -1,5 +1,5 @@
-requests
+undetected-chromedriver
 beautifulsoup4
 python-docx
-undetected-chromedriver
 setuptools
+requests
