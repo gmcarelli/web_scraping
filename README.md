@@ -1,2 +1,2 @@
-# ChatGPT_OCR
-Simple study about using OpenAI's models on OCR taskings
+# Web Scraping
+Simple study about web scraping
